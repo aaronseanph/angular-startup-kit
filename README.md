@@ -1,6 +1,8 @@
 # Angular Startup Kit
 Personal Base Structure to Start Building Amazing Apps with Angular to eliminate setup time
 
+--------------------------------------------------------------------------------------------------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
